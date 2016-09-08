@@ -1,5 +1,5 @@
 # AMD SuperSample Anti-Aliasing (SSAA) Sample
-<img src="ssaa11/media/Thumbnail.png" width="480" height="280" />
+<img src="ssaa11/media/Thumbnail.png" width="480" height="284" />
 
 The SSAA11 DirectX 11 sample demonstrates some of the ways in which to reduce scene aliasing without using a post process technique. Methods include multisample antialiasing (MSAA), supersample antialiasing (SSAA) and enhanced quality antialiasing (EQAA).
 
